@@ -1,4 +1,4 @@
-package de.androbin.util;
+package de.androbin.util.txt;
 
 import java.util.*;
 
